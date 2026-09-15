@@ -1,0 +1,1 @@
+https://login.live.com/oauth20_desktop.srf?code=<Microsoft authentication code? Does have url encoded characters>&lc=<Integer that has unknown use>
